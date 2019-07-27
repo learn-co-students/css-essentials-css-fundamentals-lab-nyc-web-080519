@@ -1,3 +1,37 @@
+h1 { text-align: center }
+
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto
+}
+
+nav { text-align: center }
+nav a {
+  padding: 10px;
+  background-color: #808080
+}
+
+figcaption {
+  font-size: 12px;
+  text-align: center
+}
+
+section#featured-property p {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  width: 800px
+}
+
+section#details div{
+  width: 25%;
+  background-color: #B22222;
+  text-align: center;
+  display: block;
+  float: left
+}
+
 body {
   width: 100%;
   height: 100%;
